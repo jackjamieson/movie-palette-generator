@@ -24,4 +24,5 @@ If you wish to just use the program, you can run it with the precompiled files i
 
 * [The Breakfast Club](http://i.imgur.com/tcxo1nR.png)
 * [Fantastic Mr. Fox](http://i.imgur.com/rPAPehX.png)
+* [High Fidelity](http://i.imgur.com/Wo5S5KY.png)
 
