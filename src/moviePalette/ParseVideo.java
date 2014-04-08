@@ -80,7 +80,7 @@ public class ParseVideo{
 				buff[buffcount] = resized;//Place image into the array.
 				buffcount++;
 			}
-			else grabber.grab();//Must still grab the frames we aren't using to advance the buffer.
+			else grabber.grabFrame();//Must still grab the frames we aren't using to advance the buffer.
 
 		}
 
