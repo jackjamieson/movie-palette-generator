@@ -11,13 +11,9 @@ If you wish to just use the program, you can run it with the precompiled files i
 
 ###Files tested and working:
 
-* AVI(interleaved)
+* AVI
 * WMV
 * MKV
-
-###Files tested and NOT working:
-* MP4
-* AVI(non-interleaved)
 
 
 ###Results
