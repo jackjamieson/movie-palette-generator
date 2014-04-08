@@ -9,7 +9,7 @@ If you wish to just use the program, you can run it with the precompiled files i
 
 **WARNING ABOUT EVERY N FRAMES** Using less than 10 will take a lot longer, more than 10 may look bad.
 
-###Files tested and working:
+###File types tested and working:
 
 * AVI
 * WMV
